@@ -1,6 +1,6 @@
 {
   "name": "greet-greet",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,11 +23,10 @@
     "url": "https://github.com/Mansikansagara/greet-greet.git"
   },
   "contributors": [
-  {
-    "name": "Kaushik Vaghasiya",
-    "email": "kaushik.corenettechindia@gmail.com",
-    "url": "https://github.com/Kaushikcorenet"
-  }
-]
-
+    {
+      "name": "Kaushik Vaghasiya",
+      "email": "kaushik.corenettechindia@gmail.com",
+      "url": "https://github.com/Kaushikcorenet"
+    }
+  ]
 }
