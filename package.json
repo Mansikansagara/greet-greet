@@ -1,0 +1,21 @@
+{
+  "name": "greet-greet",
+  "version": "2.0.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "multiselect",
+    "dropdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "files": [
+    "index.js",
+    "README.md",
+    "dropdown.js"
+  ]
+}
