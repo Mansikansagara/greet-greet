@@ -17,5 +17,9 @@
     "index.js",
     "README.md",
     "dropdown.js"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mansikansagara/greet-greet.git"
+  }
 }
